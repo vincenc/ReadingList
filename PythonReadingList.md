@@ -1,5 +1,7 @@
 # Python Reading List
 
+- English - 繁中 - 简中
+
 ## Basic
 
 - LearningPython - Python 學習手冊 - Python学习手册
